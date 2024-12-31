@@ -1,6 +1,6 @@
 ## Check your network usage with NRF24L01+
 This project was created for searching and analysing the nearby network. Handy for some remote-controlled cars, drones, and other things. So, first of all, are the parts. You need an Arduino (I used Uno R3, but you can use another), some jumper wires, and the NRF24L01+LNA.
-![size | 450](parts.jpeg)
+<img src="parts.jpeg" alt="Alt Text" width="300" height="200">
 Also, you can use this NRF24L01 adapter, but mine was not working.
 ![size | 450](adapter.jpeg)
 Now you need to connect all this together.
